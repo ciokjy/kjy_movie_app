@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kjy_movie_app/static/css/main.672a5149.chunk.css",
+    "main.js": "/kjy_movie_app/static/js/main.cae0bfb0.chunk.js",
+    "main.js.map": "/kjy_movie_app/static/js/main.cae0bfb0.chunk.js.map",
+    "runtime~main.js": "/kjy_movie_app/static/js/runtime~main.e66ab738.js",
+    "runtime~main.js.map": "/kjy_movie_app/static/js/runtime~main.e66ab738.js.map",
+    "static/js/2.558ee272.chunk.js": "/kjy_movie_app/static/js/2.558ee272.chunk.js",
+    "static/js/2.558ee272.chunk.js.map": "/kjy_movie_app/static/js/2.558ee272.chunk.js.map",
+    "index.html": "/kjy_movie_app/index.html",
+    "precache-manifest.ef2b07ccb4fd5678a11d7a43735f9fc9.js": "/kjy_movie_app/precache-manifest.ef2b07ccb4fd5678a11d7a43735f9fc9.js",
+    "service-worker.js": "/kjy_movie_app/service-worker.js",
+    "static/css/main.672a5149.chunk.css.map": "/kjy_movie_app/static/css/main.672a5149.chunk.css.map"
+  }
+}
